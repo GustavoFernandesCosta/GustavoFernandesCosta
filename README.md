@@ -27,9 +27,10 @@
 <img align="center" alt="Sinon" src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon"/>
 </div><br/>
 
-## Cloud
+### Cloud
 <div style="display: inline_block">
 <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</div><br/>
 
 ### Other Technologies
 <img align="center" alt="RabbitMQ" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"/>
